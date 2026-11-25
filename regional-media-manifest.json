@@ -1,0 +1,43 @@
+{
+  "format": "webp",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "motion": false,
+  "notes": [
+    "Static images replace the requested director and confidence video slots. Use img elements instead of video elements for these WebP files.",
+    "Western, Asian and Middle East share directorwestern.webp as previously agreed.",
+    "Existing amasomo.webp and whitestudentspeaking.webm remain shared assets and are not regenerated."
+  ],
+  "regions": {
+    "Western": {
+      "director": "directorwestern.webp",
+      "private_lesson": "outsideteacherandstudentwestern.webp",
+      "speaking_practice": "inhousewestern.webp",
+      "corporate_1": "corporatewestern1.webp",
+      "corporate_2": "corporatewestern2.webp"
+    },
+    "Asian": {
+      "director": "directorwestern.webp",
+      "private_lesson": "outsideteacherandstudentasia.webp",
+      "speaking_practice": "inhouseasia.webp",
+      "corporate_1": "corporateasia1.webp",
+      "corporate_2": "corporateasia2.webp"
+    },
+    "Middle East": {
+      "director": "directorwestern.webp",
+      "private_lesson": "outsideteacherandstudentmiddleeast.webp",
+      "speaking_practice": "inhousemiddleeast.webp",
+      "corporate_1": "corporatemiddleeast1.webp",
+      "corporate_2": "corporatemiddleeast2.webp"
+    },
+    "Pacific": {
+      "director": "directorpacific.webp",
+      "private_lesson": "outsideteacherandstudentpacific.webp",
+      "speaking_practice": "inhousepacific.webp",
+      "corporate_1": "corporatepacific1.webp",
+      "corporate_2": "corporatepacific2.webp"
+    }
+  }
+}
