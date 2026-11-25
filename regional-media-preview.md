@@ -10,7 +10,7 @@ Director and speaking-practice video sections use still WebP replacements in thi
 |---|---|---|
 | Director | ![director](directorwestern.webp) | [`directorwestern.webp`](directorwestern.webp) |
 | Private Lesson | ![private_lesson](outsideteacherandstudentwestern.webp) | [`outsideteacherandstudentwestern.webp`](outsideteacherandstudentwestern.webp) |
-| Speaking Practice | ![speaking_practice](inhousewestern.webp) | [`inhousewestern.webp`](inhousewestern.webp) |
+| Speaking Practice | ![speaking_practice](insideteacherandstudentwestern.webp) | [`insideteacherandstudentwestern.webp`](insideteacherandstudentwestern.webp) |
 | Corporate 1 | ![corporate_1](corporatewestern1.webp) | [`corporatewestern1.webp`](corporatewestern1.webp) |
 | Corporate 2 | ![corporate_2](corporatewestern2.webp) | [`corporatewestern2.webp`](corporatewestern2.webp) |
 
@@ -21,7 +21,7 @@ Director and speaking-practice video sections use still WebP replacements in thi
 |---|---|---|
 | Director | ![director](directorwestern.webp) | [`directorwestern.webp`](directorwestern.webp) |
 | Private Lesson | ![private_lesson](outsideteacherandstudentasia.webp) | [`outsideteacherandstudentasia.webp`](outsideteacherandstudentasia.webp) |
-| Speaking Practice | ![speaking_practice](inhouseasia.webp) | [`inhouseasia.webp`](inhouseasia.webp) |
+| Speaking Practice | ![speaking_practice](insideteacherandstudentasia.webp) | [`insideteacherandstudentasia.webp`](insideteacherandstudentasia.webp) |
 | Corporate 1 | ![corporate_1](corporateasia1.webp) | [`corporateasia1.webp`](corporateasia1.webp) |
 | Corporate 2 | ![corporate_2](corporateasia2.webp) | [`corporateasia2.webp`](corporateasia2.webp) |
 
@@ -32,7 +32,7 @@ Director and speaking-practice video sections use still WebP replacements in thi
 |---|---|---|
 | Director | ![director](directorwestern.webp) | [`directorwestern.webp`](directorwestern.webp) |
 | Private Lesson | ![private_lesson](outsideteacherandstudentmiddleeast.webp) | [`outsideteacherandstudentmiddleeast.webp`](outsideteacherandstudentmiddleeast.webp) |
-| Speaking Practice | ![speaking_practice](inhousemiddleeast.webp) | [`inhousemiddleeast.webp`](inhousemiddleeast.webp) |
+| Speaking Practice | ![speaking_practice](insideteacherandstudentmiddleeast.webp) | [`insideteacherandstudentmiddleeast.webp`](insideteacherandstudentmiddleeast.webp) |
 | Corporate 1 | ![corporate_1](corporatemiddleeast1.webp) | [`corporatemiddleeast1.webp`](corporatemiddleeast1.webp) |
 | Corporate 2 | ![corporate_2](corporatemiddleeast2.webp) | [`corporatemiddleeast2.webp`](corporatemiddleeast2.webp) |
 
@@ -43,7 +43,13 @@ Director and speaking-practice video sections use still WebP replacements in thi
 |---|---|---|
 | Director | ![director](directorpacific.webp) | [`directorpacific.webp`](directorpacific.webp) |
 | Private Lesson | ![private_lesson](outsideteacherandstudentpacific.webp) | [`outsideteacherandstudentpacific.webp`](outsideteacherandstudentpacific.webp) |
-| Speaking Practice | ![speaking_practice](inhousepacific.webp) | [`inhousepacific.webp`](inhousepacific.webp) |
+| Speaking Practice | ![speaking_practice](insideteacherandstudentpacific.webp) | [`insideteacherandstudentpacific.webp`](insideteacherandstudentpacific.webp) |
 | Corporate 1 | ![corporate_1](corporatepacific1.webp) | [`corporatepacific1.webp`](corporatepacific1.webp) |
 | Corporate 2 | ![corporate_2](corporatepacific2.webp) | [`corporatepacific2.webp`](corporatepacific2.webp) |
 
+
+## African and Caribbean confidence image
+
+![Indoor speaking practice](insideteacherandstudentafrica.webp)
+
+`insideteacherandstudentafrica.webp` — Caribbean shares this African indoor image.
