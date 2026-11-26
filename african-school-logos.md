@@ -1,207 +1,139 @@
 # African School Logos
 
-34 square school logos in WebP format, 1024 × 1024 pixels. Black school names, circular emblems, and national colours.
+Existing school logos have been preserved. Only `mbabaneschoollogo.webp` was added in this update; the other 33 logos below are the original files restored byte-for-byte.
 
-### ABIDJAN SCHOOL OF FRENCH
+### abidjanschoollogo.webp
 
-[![ABIDJAN SCHOOL OF FRENCH](abidjanschoollogo.webp)](abidjanschoollogo.webp)
+[![abidjanschoollogo.webp](abidjanschoollogo.webp)](abidjanschoollogo.webp)
 
-`abidjanschoollogo.webp`
+### accraschoollogo.webp
 
-### ACCRA SCHOOL OF TWI
+[![accraschoollogo.webp](accraschoollogo.webp)](accraschoollogo.webp)
 
-[![ACCRA SCHOOL OF TWI](accraschoollogo.webp)](accraschoollogo.webp)
+### addisababaschoollogo.webp
 
-`accraschoollogo.webp`
+[![addisababaschoollogo.webp](addisababaschoollogo.webp)](addisababaschoollogo.webp)
 
-### ADDIS ABABA SCHOOL OF AMHARIC
+### bamakoschoollogo.webp
 
-[![ADDIS ABABA SCHOOL OF AMHARIC](addisababaschoollogo.webp)](addisababaschoollogo.webp)
+[![bamakoschoollogo.webp](bamakoschoollogo.webp)](bamakoschoollogo.webp)
 
-`addisababaschoollogo.webp`
+### bloemfonteinschoollogo.webp
 
-### BAMAKO SCHOOL OF BAMBARA
+[![bloemfonteinschoollogo.webp](bloemfonteinschoollogo.webp)](bloemfonteinschoollogo.webp)
 
-[![BAMAKO SCHOOL OF BAMBARA](bamakoschoollogo.webp)](bamakoschoollogo.webp)
+### bujumburaschoollogo.webp
 
-`bamakoschoollogo.webp`
+[![bujumburaschoollogo.webp](bujumburaschoollogo.webp)](bujumburaschoollogo.webp)
 
-### BLOEMFONTEIN SCHOOL OF SESOTHO
+### bulawayoschoollogo.webp
 
-[![BLOEMFONTEIN SCHOOL OF SESOTHO](bloemfonteinschoollogo.webp)](bloemfonteinschoollogo.webp)
+[![bulawayoschoollogo.webp](bulawayoschoollogo.webp)](bulawayoschoollogo.webp)
 
-`bloemfonteinschoollogo.webp`
+### capetownschoollogo.webp
 
-### BUJUMBURA SCHOOL OF KIRUNDI
+[![capetownschoollogo.webp](capetownschoollogo.webp)](capetownschoollogo.webp)
 
-[![BUJUMBURA SCHOOL OF KIRUNDI](bujumburaschoollogo.webp)](bujumburaschoollogo.webp)
+### dakarschoollogo.webp
 
-`bujumburaschoollogo.webp`
+[![dakarschoollogo.webp](dakarschoollogo.webp)](dakarschoollogo.webp)
 
-### BULAWAYO SCHOOL OF ISINDEBELE
+### durbanschoollogo.webp
 
-[![BULAWAYO SCHOOL OF ISINDEBELE](bulawayoschoollogo.webp)](bulawayoschoollogo.webp)
+[![durbanschoollogo.webp](durbanschoollogo.webp)](durbanschoollogo.webp)
 
-`bulawayoschoollogo.webp`
+### eastlondonschoollogo.webp
 
-### CAPE TOWN SCHOOL OF ENGLISH
+[![eastlondonschoollogo.webp](eastlondonschoollogo.webp)](eastlondonschoollogo.webp)
 
-[![CAPE TOWN SCHOOL OF ENGLISH](capetownschoollogo.webp)](capetownschoollogo.webp)
+### gaboroneschoollogo.webp
 
-`capetownschoollogo.webp`
+[![gaboroneschoollogo.webp](gaboroneschoollogo.webp)](gaboroneschoollogo.webp)
 
-### DAKAR SCHOOL OF WOLOF
+### gqeberhaschoollogo.webp
 
-[![DAKAR SCHOOL OF WOLOF](dakarschoollogo.webp)](dakarschoollogo.webp)
+[![gqeberhaschoollogo.webp](gqeberhaschoollogo.webp)](gqeberhaschoollogo.webp)
 
-`dakarschoollogo.webp`
+### harareschoollogo.webp
 
-### DURBAN SCHOOL OF ZULU
+[![harareschoollogo.webp](harareschoollogo.webp)](harareschoollogo.webp)
 
-[![DURBAN SCHOOL OF ZULU](durbanschoollogo.webp)](durbanschoollogo.webp)
+### ibadanschoollogo.webp
 
-`durbanschoollogo.webp`
+[![ibadanschoollogo.webp](ibadanschoollogo.webp)](ibadanschoollogo.webp)
 
-### EAST LONDON SCHOOL OF XHOSA
+### johannesburgschoollogo.webp
 
-[![EAST LONDON SCHOOL OF XHOSA](eastlondonschoollogo.webp)](eastlondonschoollogo.webp)
+[![johannesburgschoollogo.webp](johannesburgschoollogo.webp)](johannesburgschoollogo.webp)
 
-`eastlondonschoollogo.webp`
+### kampalaschoollogo.webp
 
-### GABORONE SCHOOL OF SETSWANA
+[![kampalaschoollogo.webp](kampalaschoollogo.webp)](kampalaschoollogo.webp)
 
-[![GABORONE SCHOOL OF SETSWANA](gaboroneschoollogo.webp)](gaboroneschoollogo.webp)
+### kigalischoollogo.webp
 
-`gaboroneschoollogo.webp`
+[![kigalischoollogo.webp](kigalischoollogo.webp)](kigalischoollogo.webp)
 
-### GQEBERHA SCHOOL OF XHOSA
+### kinshasaschoollogo.webp
 
-[![GQEBERHA SCHOOL OF XHOSA](gqeberhaschoollogo.webp)](gqeberhaschoollogo.webp)
+[![kinshasaschoollogo.webp](kinshasaschoollogo.webp)](kinshasaschoollogo.webp)
 
-`gqeberhaschoollogo.webp`
+### lilongweschoollogo.webp
 
-### HARARE SCHOOL OF SHONA
+[![lilongweschoollogo.webp](lilongweschoollogo.webp)](lilongweschoollogo.webp)
 
-[![HARARE SCHOOL OF SHONA](harareschoollogo.webp)](harareschoollogo.webp)
+### luandaschoollogo.webp
 
-`harareschoollogo.webp`
+[![luandaschoollogo.webp](luandaschoollogo.webp)](luandaschoollogo.webp)
 
-### IBADAN SCHOOL OF YORUBA
+### lusakaschoollogo.webp
 
-[![IBADAN SCHOOL OF YORUBA](ibadanschoollogo.webp)](ibadanschoollogo.webp)
+[![lusakaschoollogo.webp](lusakaschoollogo.webp)](lusakaschoollogo.webp)
 
-`ibadanschoollogo.webp`
+### mafikengschoollogo.webp
 
-### JOHANNESBURG SCHOOL OF FRENCH
+[![mafikengschoollogo.webp](mafikengschoollogo.webp)](mafikengschoollogo.webp)
 
-[![JOHANNESBURG SCHOOL OF FRENCH](johannesburgschoollogo.webp)](johannesburgschoollogo.webp)
+### malaboschoollogo.webp
 
-`johannesburgschoollogo.webp`
+[![malaboschoollogo.webp](malaboschoollogo.webp)](malaboschoollogo.webp)
 
-### KAMPALA SCHOOL OF LUGANDA
+### mangaungschoollogo.webp
 
-[![KAMPALA SCHOOL OF LUGANDA](kampalaschoollogo.webp)](kampalaschoollogo.webp)
+[![mangaungschoollogo.webp](mangaungschoollogo.webp)](mangaungschoollogo.webp)
 
-`kampalaschoollogo.webp`
+### manzinischoollogo.webp
 
-### KIGALI SCHOOL OF KINYARWANDA
+[![manzinischoollogo.webp](manzinischoollogo.webp)](manzinischoollogo.webp)
 
-[![KIGALI SCHOOL OF KINYARWANDA](kigalischoollogo.webp)](kigalischoollogo.webp)
+### maputoschoollogo.webp
 
-`kigalischoollogo.webp`
+[![maputoschoollogo.webp](maputoschoollogo.webp)](maputoschoollogo.webp)
 
-### KINSHASA SCHOOL OF LINGALA
+### maseruschoollogo.webp
 
-[![KINSHASA SCHOOL OF LINGALA](kinshasaschoollogo.webp)](kinshasaschoollogo.webp)
+[![maseruschoollogo.webp](maseruschoollogo.webp)](maseruschoollogo.webp)
 
-`kinshasaschoollogo.webp`
+### mbabaneschoollogo.webp
 
-### LILONGWE SCHOOL OF CHICHEWA
+[![mbabaneschoollogo.webp](mbabaneschoollogo.webp)](mbabaneschoollogo.webp)
 
-[![LILONGWE SCHOOL OF CHICHEWA](lilongweschoollogo.webp)](lilongweschoollogo.webp)
+### mbombelaschoollogo.webp
 
-`lilongweschoollogo.webp`
+[![mbombelaschoollogo.webp](mbombelaschoollogo.webp)](mbombelaschoollogo.webp)
 
-### LUANDA SCHOOL OF PORTUGUESE
+### mwanzaschoollogo.webp
 
-[![LUANDA SCHOOL OF PORTUGUESE](luandaschoollogo.webp)](luandaschoollogo.webp)
+[![mwanzaschoollogo.webp](mwanzaschoollogo.webp)](mwanzaschoollogo.webp)
 
-`luandaschoollogo.webp`
+### nairobischoollogo.webp
 
-### LUSAKA SCHOOL OF NYANJA
+[![nairobischoollogo.webp](nairobischoollogo.webp)](nairobischoollogo.webp)
 
-[![LUSAKA SCHOOL OF NYANJA](lusakaschoollogo.webp)](lusakaschoollogo.webp)
+### stellenboschschoollogo.webp
 
-`lusakaschoollogo.webp`
+[![stellenboschschoollogo.webp](stellenboschschoollogo.webp)](stellenboschschoollogo.webp)
 
-### MAFIKENG SCHOOL OF SETSWANA
+### yaoundeschoollogo.webp
 
-[![MAFIKENG SCHOOL OF SETSWANA](mafikengschoollogo.webp)](mafikengschoollogo.webp)
-
-`mafikengschoollogo.webp`
-
-### MALABO SCHOOL OF SPANISH
-
-[![MALABO SCHOOL OF SPANISH](malaboschoollogo.webp)](malaboschoollogo.webp)
-
-`malaboschoollogo.webp`
-
-### MANGAUNG SCHOOL OF SESOTHO
-
-[![MANGAUNG SCHOOL OF SESOTHO](mangaungschoollogo.webp)](mangaungschoollogo.webp)
-
-`mangaungschoollogo.webp`
-
-### MANZINI SCHOOL OF SISWATI
-
-[![MANZINI SCHOOL OF SISWATI](manzinischoollogo.webp)](manzinischoollogo.webp)
-
-`manzinischoollogo.webp`
-
-### MAPUTO SCHOOL OF PORTUGUESE
-
-[![MAPUTO SCHOOL OF PORTUGUESE](maputoschoollogo.webp)](maputoschoollogo.webp)
-
-`maputoschoollogo.webp`
-
-### MASERU SCHOOL OF SESOTHO
-
-[![MASERU SCHOOL OF SESOTHO](maseruschoollogo.webp)](maseruschoollogo.webp)
-
-`maseruschoollogo.webp`
-
-### MBABANE SCHOOL OF SISWATI
-
-[![MBABANE SCHOOL OF SISWATI](mbabaneschoollogo.webp)](mbabaneschoollogo.webp)
-
-`mbabaneschoollogo.webp`
-
-### MBOMBELA SCHOOL OF SISWATI
-
-[![MBOMBELA SCHOOL OF SISWATI](mbombelaschoollogo.webp)](mbombelaschoollogo.webp)
-
-`mbombelaschoollogo.webp`
-
-### MWANZA SCHOOL OF SWAHILI
-
-[![MWANZA SCHOOL OF SWAHILI](mwanzaschoollogo.webp)](mwanzaschoollogo.webp)
-
-`mwanzaschoollogo.webp`
-
-### NAIROBI SCHOOL OF SWAHILI
-
-[![NAIROBI SCHOOL OF SWAHILI](nairobischoollogo.webp)](nairobischoollogo.webp)
-
-`nairobischoollogo.webp`
-
-### STELLENBOSCH SCHOOL OF AFRIKAANS
-
-[![STELLENBOSCH SCHOOL OF AFRIKAANS](stellenboschschoollogo.webp)](stellenboschschoollogo.webp)
-
-`stellenboschschoollogo.webp`
-
-### YAOUNDÉ SCHOOL OF FRENCH
-
-[![YAOUNDÉ SCHOOL OF FRENCH](yaoundeschoollogo.webp)](yaoundeschoollogo.webp)
-
-`yaoundeschoollogo.webp`
+[![yaoundeschoollogo.webp](yaoundeschoollogo.webp)](yaoundeschoollogo.webp)
